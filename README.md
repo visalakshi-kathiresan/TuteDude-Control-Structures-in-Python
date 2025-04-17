@@ -3,7 +3,7 @@
 
 ---
 
-## 📌 Task 1: Check if a Number is Even or Odd  
+## Task 1: Check if a Number is Even or Odd  
 
 **Problem Statement:**  
 Write a Python program that:  
@@ -11,13 +11,12 @@ Write a Python program that:
 2. Checks whether the number is even or odd using an `if-else` statement.  
 3. Displays the result accordingly.  
 
-**💡 Expected Output:**  
-         Enter an integer: 7 7 is an odd number.
-                    or  
-         Enter an integer: 8 8 is an even number.
+**Expected Output:**  
+Enter an integer: 7 7 is an odd number or
+Enter an integer: 8 8 is an even number
 ---
 
-## 📌 Task 2: Sum of Integers from 1 to 50 Using a Loop  
+## Task 2: Sum of Integers from 1 to 50 Using a Loop  
 
 **Problem Statement:**  
 Write a Python program that:  
@@ -25,8 +24,8 @@ Write a Python program that:
 2. Calculates the sum of all integers in this range.  
 3. Displays the final sum.  
 
-**💡 Expected Output:**  
-            The sum of integers from 1 to 50 is: 1275
+**Expected Output:**  
+The sum of integers from 1 to 50 is: 1275
 ---
 
 ## 🚀 How to Run:
