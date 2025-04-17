@@ -26,7 +26,7 @@ Write a Python program that:
 3. Displays the final sum.  
 
 **💡 Expected Output:**  
-          The sum of integers from 1 to 50 is: 1275
+            The sum of integers from 1 to 50 is: 1275
 ---
 
 ## 🚀 How to Run:
