@@ -28,7 +28,7 @@ Write a Python program that:
 The sum of integers from 1 to 50 is: 1275
 ---
 
-## 🚀 How to Run:
+##  How to Run:
 
 1. Clone or download this repository.  
 2. Open a terminal or command prompt.  
